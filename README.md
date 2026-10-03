@@ -1,7 +1,7 @@
 # Hi, I' am Sirivalli Reddy
 Data Analyst | Python | SQL | Power BI
 
-passionate Data Analyst turning inti insights
+passionate Data Analyst turning into insights
 **boddu-sirivalli-reddy/boddu-sirivalli-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
